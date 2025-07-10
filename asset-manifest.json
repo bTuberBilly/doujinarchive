@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/doujinarchive/static/css/main.5e75bb21.css",
-    "main.js": "/doujinarchive/static/js/main.81839489.js",
+    "main.js": "/doujinarchive/static/js/main.b05d4a50.js",
     "index.html": "/doujinarchive/index.html",
     "main.5e75bb21.css.map": "/doujinarchive/static/css/main.5e75bb21.css.map",
-    "main.81839489.js.map": "/doujinarchive/static/js/main.81839489.js.map"
+    "main.b05d4a50.js.map": "/doujinarchive/static/js/main.b05d4a50.js.map"
   },
   "entrypoints": [
     "static/css/main.5e75bb21.css",
-    "static/js/main.81839489.js"
+    "static/js/main.b05d4a50.js"
   ]
 }
